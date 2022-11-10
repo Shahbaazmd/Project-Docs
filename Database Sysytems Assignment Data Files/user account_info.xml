@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <user_id>1</user_id>
+    <user_name>Smith</user_name>
+    <user_phone>770891234</user_phone>
+    <user_location>chicago</user_location>
+    <user_email>smith@gmail.com</user_email>
+  </row>
+  <row>
+    <user_id>2</user_id>
+    <user_name>james</user_name>
+    <user_phone>778954321</user_phone>
+    <user_location>New york</user_location>
+    <user_email>James@gmail.com</user_email>
+  </row>
+  <row>
+    <user_id>3</user_id>
+    <user_name>sam</user_name>
+    <user_phone>776534321</user_phone>
+    <user_location>Illinois</user_location>
+    <user_email>Sam@gmail.com</user_email>
+  </row>
+</root>

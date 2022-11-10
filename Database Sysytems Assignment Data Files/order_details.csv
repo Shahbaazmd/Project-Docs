@@ -1,0 +1,4 @@
+order_id,user_id,product_id,product_qty,prod_price
+1,2,1,2,22
+2,1,1,1,10
+3,1,2,3,95

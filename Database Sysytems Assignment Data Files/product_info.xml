@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <product_id>1</product_id>
+    <product_name>Batman</product_name>
+    <product_description>Batman</product_description>
+    <product_price>15</product_price>
+    <product_stock>500</product_stock>
+  </row>
+  <row>
+    <product_id>2</product_id>
+    <product_name>Innovative</product_name>
+    <product_description>Flights sets</product_description>
+    <product_price>25</product_price>
+    <product_stock>500</product_stock>
+  </row>
+  <row>
+    <product_id>3</product_id>
+    <product_name>He man</product_name>
+    <product_description>Versions</product_description>
+    <product_price>15</product_price>
+    <product_stock>400</product_stock>
+  </row>
+</root>
