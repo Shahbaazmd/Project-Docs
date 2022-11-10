@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <Prod_id index="1">Prod_id</Prod_id>
+    <Prod_name index="2">Prod_name</Prod_name>
+    <Prod_stock index="4">Prod_stock</Prod_stock>
+    <Store_location index="3">Store_location</Store_location>
+  </columns>
+  <records>
+    <record index="1">
+      <Prod_id>prod1001</Prod_id>
+      <Prod_name>Superman</Prod_name>
+      <Prod_stock>450</Prod_stock>
+      <Store_location>Chicago</Store_location>
+    </record>
+    <record index="2">
+      <Prod_id>prod1001</Prod_id>
+      <Prod_name>Superman</Prod_name>
+      <Prod_stock>600</Prod_stock>
+      <Store_location>Newyork</Store_location>
+    </record>
+    <record index="3">
+      <Prod_id>prod1002</Prod_id>
+      <Prod_name>Spiderman</Prod_name>
+      <Prod_stock>550</Prod_stock>
+      <Store_location>Chicago</Store_location>
+    </record>
+    <record index="4">
+      <Prod_id>prod1003</Prod_id>
+      <Prod_name>Ironman</Prod_name>
+      <Prod_stock>300</Prod_stock>
+      <Store_location>Newyork</Store_location>
+    </record>
+    <record index="5">
+      <Prod_id>prod1002</Prod_id>
+      <Prod_name>Spiderman</Prod_name>
+      <Prod_stock>250</Prod_stock>
+      <Store_location>Texas</Store_location>
+    </record>
+  </records>
+</data>
