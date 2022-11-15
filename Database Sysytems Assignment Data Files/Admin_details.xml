@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <id index="1">id</id>
+    <admin_name index="2">admin_name</admin_name>
+    <password index="3">password</password>
+  </columns>
+  <records>
+    <record index="1">
+      <id>1</id>
+      <admin_name>Rob</admin_name>
+      <password>Rob_123</password>
+    </record>
+    <record index="2">
+      <id>2</id>
+      <admin_name>Julie</admin_name>
+      <password>Julie_456</password>
+    </record>
+    <record index="3">
+      <id>3</id>
+      <admin_name>Mary</admin_name>
+      <password>Mary_789</password>
+    </record>
+  </records>
+</data>

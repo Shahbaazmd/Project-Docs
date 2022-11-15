@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <order_id>1</order_id>
+    <user_id>2</user_id>
+    <product_id>1</product_id>
+    <product_qty>2</product_qty>
+    <prod_price>22</prod_price>
+  </row>
+  <row>
+    <order_id>2</order_id>
+    <user_id>1</user_id>
+    <product_id>1</product_id>
+    <product_qty>1</product_qty>
+    <prod_price>10</prod_price>
+  </row>
+  <row>
+    <order_id>3</order_id>
+    <user_id>1</user_id>
+    <product_id>2</product_id>
+    <product_qty>3</product_qty>
+    <prod_price>95</prod_price>
+  </row>
+</root>
